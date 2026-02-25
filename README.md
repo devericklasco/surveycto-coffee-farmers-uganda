@@ -2,6 +2,8 @@
 
 This repository is a public SurveyCTO/XLSForm work sample for field operations context: an AI advisory tool for smallholder coffee farmers in Uganda. The package is designed to demonstrate strong instrument engineering and field readiness, not agronomy depth.
 
+Created by Erick Busuulwa ([devericklasco](https://github.com/devericklasco)).
+
 ## How this maps to Field Coordinator responsibilities
 
 - Instrument design: Structured modules from setup through closeout, with practical skip logic and validation.

@@ -1,5 +1,7 @@
 # Enumerator Guide: Coffee Farmer Survey (Uganda)
 
+Created by Erick Busuulwa ([devericklasco](https://github.com/devericklasco)).
+
 ## Purpose
 
 This interview collects structured data on household coffee farming context, recent shocks, and farmer preferences for AI advisory delivery. Your role is to administer the questionnaire consistently, neutrally, and respectfully.

@@ -1,5 +1,7 @@
 # Data Dictionary
 
+Created by Erick Busuulwa ([devericklasco](https://github.com/devericklasco)).
+
 | field_name | type | required | description | notes |
 |---|---|---|---|---|
 | start | start | no | Interview start timestamp | Metadata auto-captured by SurveyCTO. |
