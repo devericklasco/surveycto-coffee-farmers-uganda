@@ -7,6 +7,4 @@ Thumbs.db
 # Optional local exports and scratch files
 *.tmp
 *.log
-*_WIDE.xlsx
-*export_report.pdf
 /*.png

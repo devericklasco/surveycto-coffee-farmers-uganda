@@ -37,6 +37,12 @@ Created by Erick Busuulwa ([devericklasco](https://github.com/devericklasco)).
 4. Publish and load to SurveyCTO Collect for device-based testing, including offline mode and GPS capture.
 5. Review test submissions in table view and export CSV for QA checks.
 
+## Export artifacts
+
+- [SurveyCTO export report (PDF)](coffee_farmer_survey_uganda_demo_export_report.pdf)
+- [SurveyCTO wide export (XLSX)](AI%20Advisory%20Tool%20for%20Smallholder%20Coffee%20Farmers%20-%20Uganda_WIDE.xlsx)
+- [Synthetic sample export (CSV)](sample_export.csv)
+
 ## Screenshots
 
 ### Form and logic evidence
