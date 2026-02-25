@@ -10,9 +10,3 @@ Thumbs.db
 *_WIDE.xlsx
 *export_report.pdf
 /*.png
-
-# Keep only curated screenshots in git
-screenshots/*.png
-!screenshots/01_form_designer_overview.png
-!screenshots/02_skip_logic_fertilizer_type.png
-!screenshots/03_consent_no_path.png

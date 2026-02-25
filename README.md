@@ -50,6 +50,55 @@ Skip logic in action: `fertilizer_type` appears when `fertilizer_use = yes`.
 ![Consent no path](screenshots/03_consent_no_path.png)
 Consent refusal path captured in the web tester.
 
+![Consent script screen](screenshots/15_consent_script_screen.png)
+Consent script display in test mode for enumerator reading consistency.
+
+![Major challenges question](screenshots/16_major_challenges_screen.png)
+Select-multiple production challenges module in test mode.
+
+![Farm training question](screenshots/12_farmers_training.png)
+Training source question under climate and climate-smart agriculture module.
+
+![Advisory topics question](screenshots/11_advisory_topics.png)
+AI advisory preference module with multi-select topics.
+
+### Workflow and QA evidence
+
+![Monitor submissions](screenshots/04_monitor_submissions.png)
+Submission monitoring view for QA checks.
+
+![Daily submissions chart](screenshots/06_daily_submissions_chart.png)
+Daily submission trend view from monitoring dashboard.
+
+![Not completed example](screenshots/07_not_completed_example.png)
+Incomplete interview flow captured for visit outcome testing.
+
+![Visit notes screen](screenshots/18_visit_notes_screen.png)
+Enumerator notes field in final module.
+
+![Saved progress modal](screenshots/17_saved_progress_modal.png)
+Saved-progress testing path showing resume options.
+
+![End of form screen](screenshots/14_form_end_screen.png)
+End-of-form testing controls and finalization path.
+
+### Deployment and device setup evidence
+
+![Form default view](screenshots/13_form_default_view.png)
+Form listing and deployed version in SurveyCTO console.
+
+![Collect setup](screenshots/05_collect_qr_setup.png)
+SurveyCTO Collect setup page in server console.
+
+![Collect QR code](screenshots/08_collect_qr_code.png)
+Device onboarding QR code for field deployment.
+
+![Location capture example 1](screenshots/09_location_capture_example_1.png)
+Example location capture evidence from form testing.
+
+![Location capture example 2](screenshots/10_location_capture_example_2.png)
+Additional location capture evidence from testing workflow.
+
 ## Assumptions and limitations
 
 - Agronomy content is illustrative and intentionally lightweight.
